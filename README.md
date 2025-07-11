@@ -10,7 +10,7 @@ This project features a professional **Power BI dashboard** designed to visualiz
   Processed raw survey data using **Power Query** and **DAX** to ensure accurate and consistent reporting.
 
 - **Interactive Visualizations**  
-  Built dynamic visuals including **bar charts**, **pie charts**, **KPIs**, and **slicers** for real-time data filtering and exploration.
+  Built dynamic visuals including **bar charts**, **pie charts**, and **slicers** for real-time data filtering and exploration.
 
 - **User-Centric Design**  
   Prioritized clarity and accessibility with a clean, responsive layout, making it easy for users to identify trends and key metrics.
@@ -39,7 +39,8 @@ This dashboard showcases my ability to transform raw data into meaningful, visua
 
 ## 📸 Preview
 
-*Add screenshots or GIFs here if available*
+<img width="1165" height="656" alt="Dashboard" src="https://github.com/user-attachments/assets/4c771900-a3f7-4407-8e99-9c61e3d703ad" />
+
 
 ---
 
